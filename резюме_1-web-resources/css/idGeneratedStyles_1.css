@@ -1,11 +1,12 @@
 body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
-	margin2px;
+	margin:2px;
 	padding:2px;
 	border-width:0;
 }
 body {
 	background: #faf0eb;
 	min-width:400px;
+	height:1200px;
 }
 #left {
 	float:right;
@@ -191,4 +192,13 @@ td.Стандартная-таблица {
 	width: 15%;
 	height: 40px;
 	background: #134398;	
+}
+#footer
+{
+	
+	 position: fixed;
+        bottom: 0;
+        width: 100%;
+        z-index: 99;
+	
 }
