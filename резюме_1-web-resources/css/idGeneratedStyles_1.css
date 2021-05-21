@@ -1,5 +1,5 @@
-@font-face {font-family: "Oswald-Regular"; src: url(../font/Oswald-Regular.ttf);
-}
+@font-face {font-family: "Oswald-Regular"; src: url(../font/Oswald-Regular.ttf);}
+@font-face {font-family: "MyriadPro-Regular"; src: url(../font/MyriadPro-Regular.otf);}
 body, div {
 	margin:2px;
 	padding:2px;
@@ -49,7 +49,7 @@ img._idGenObjectAttribute-1 {
 p.основной-абзац {
 
 	color:#000000;
-	font-family:"Myriad Pro", serif;
+	font-family:"MyriadPro-Regular", serif;
 	font-size:18px;
 	font-style:normal;
 	font-variant:normal;
@@ -90,14 +90,14 @@ p.заголовок {
 	widows:1;
 }
 span.CharOverride-1 {
-	font-family:"Myriad Pro", sans-serif;
+	font-family:"MyriadPro-Regular", sans-serif;
 	font-size:24px;
 	font-style:normal;
 	font-weight:normal;
 }
 span.CharOverride-2, span.CharOverride-3, span.CharOverride-4, span.CharOverride-5
  {
-	font-family:"Myriad Pro", sans-serif;
+	font-family:"MyriadPro-Regular", sans-serif;
 	
 	font-size:18px;
 	font-style:bold;
