@@ -27,7 +27,7 @@ body {
 }
 img._idGenObjectAttribute-1 {
 	float:left;
-	margin-right:5%;
+	margin-left:20px;
 	width:240px;
 	height:240px;
 }
@@ -38,6 +38,7 @@ img._idGenObjectAttribute-1 {
 	
 }
 p.основной-абзац {
+
 	color:#000000;
 	font-family:"Myriad Pro", serif;
 	font-size:14px;
@@ -99,6 +100,14 @@ span.rabotu {
 	font-style:bold;
 	font-weight:normal;
 }
+span.rabotu_11 {
+	font-family:"oswald", sans-serif;
+	
+	color:#134398;
+	font-size:30px;
+	font-style:bold;
+	font-weight:normal;
+}
 div.Текстовый-фрейм {	
 	margin-left:20px;
 	margin-top:0px;
@@ -151,14 +160,19 @@ td.Стандартная-таблица {
 	align-items:center;
 	
 	justify-content: space-around;
-
+	opacity:0.95;
 	
 	width: 98%;
-	height: 120px;
+	height: 100px;
 	background: #c5daed;
 	margin-top: 20px;
-	margin-bottom:20px;
-	
+	margin-bottom:4px;
+	padding-bottom:5px;
+	 position: fixed;
+        bottom: 0;
+        width: 100%;
+        z-index: 99;
+		
 }
 
 #rabot
@@ -169,7 +183,7 @@ td.Стандартная-таблица {
 	justify-content: center;
 	width: 15%;
 	height: 40px;
-	background: #9dcfe1;
+	
 	
 	
 	
@@ -191,14 +205,6 @@ td.Стандартная-таблица {
 	justify-content: center;
 	width: 15%;
 	height: 40px;
-	background: #134398;	
-}
-#footer
-{
-	
-	 position: fixed;
-        bottom: 0;
-        width: 100%;
-        z-index: 99;
-	
+	background: #134398;
+		
 }
