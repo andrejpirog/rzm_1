@@ -241,19 +241,19 @@ td.Стандартная-таблица {
 {
 	
 	display: flex;
-	flex-direction:column;
-	align-items:center;
+
+	align-items:flex-end;
 	
-	justify-content: space-around;
+	
 
 	
-	justify-content: space-around;
+	
 	opacity:0.95;
 	
 	margin-left:-4px;
 	
 	width: 100%;
-	height: 100px;
+	height: 60px;
 	background: #c5daed;
 	margin-top: 20px;
 	margin-bottom:4px;

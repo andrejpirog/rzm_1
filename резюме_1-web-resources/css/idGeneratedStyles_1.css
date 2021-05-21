@@ -1,4 +1,4 @@
-@font-face {font-family: 'Oswald'; src: url(font/Oswald-Regular.ttf;)}
+@font-face {font-family: 'Oswald-Regular'; src: url(font/Oswald-Regular.ttf;)}
 body, div {
 	margin:2px;
 	padding:2px;
@@ -28,7 +28,7 @@ body {
 }
 img._idGenObjectAttribute-1 {
 	float:left;
-	margin-left:20px;
+	margin-left:30px;
 	width:240px;
 	height:240px;
 }
@@ -62,14 +62,14 @@ p.основной-абзац {
 }
 p.заголовок {
 	color:#000000;
-	font-family:"oswald", serif;
+	font-family:"Oswald-Regular", serif;
 	font-size:50px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
 	margin-bottom:0;
-	margin-left:20px;
+	margin-left:32px;
 	margin-right:0;
 	margin-top:0;
 	orphans:1;
@@ -102,7 +102,7 @@ span.rabotu {
 	font-weight:normal;
 }
 span.rabotu_11 {
-	font-family:"oswald", sans-serif;
+	font-family:"Oswald-Regular", sans-serif;
 	
 	color:#134398;
 	font-size:30px;
@@ -118,6 +118,7 @@ div.Текстовый-фрейм {
 	
 	
 	width:96%;
+	padding-left:14px;
 	
 }
 #_idContainer002 {
@@ -125,6 +126,7 @@ div.Текстовый-фрейм {
 	
 	width:96%;
 	margin-bottom:200px;
+	padding-left:14px;
 	
 }
 table.Стандартная-таблица {
@@ -161,7 +163,7 @@ td.Стандартная-таблица {
 	flex-direction:column;
 	align-items:center;
 	
-	justify-content: space-around;
+	
 	opacity:0.95;
 	
 	margin-left:0px;
