@@ -105,6 +105,7 @@ p.заголовок {
 	
         position: fixed;
 		margin-right:4px;
+		margin-top:2px;
 		right:0;
         padding:15px;
 		padding-top:0px;
@@ -195,7 +196,14 @@ div.Текстовый-фрейм {
 	justify-content: center;	
 	width:100%;
 	height:400px;
-	margin-top:60px;
+	margin-top:-40px;
+	
+	
+	position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
 }
 
 
