@@ -7,31 +7,38 @@ body, div {
 }
 body {
 	background: #faf0eb;
-	min-width:400px;
+	min-width:200px;
 	height:1200px;
 }
 #left {
-	float:right;
-	background: #faf0eb;
+	float:left;
+	
 	width:40%;
-	height:260px;
-	margin-top: 20px;
-	margin-left:20px;
+	height: 180px;
+	
+	
+	margin-left:32px;
 	
 }
 #right {
-	float:left;
-	background: #faf0eb;
-	width:40%;
-	height:260px;
-	margin-top: 20px;
+	
+	background: #ffffff;
+	
+	height:360px;
+	width:360px;
+	
+	margin-top:12px;
+	margin-right:0px;
+	
+	
 	
 }
 img._idGenObjectAttribute-1 {
-	float:left;
-	margin-left:30px;
-	width:240px;
-	height:240px;
+	float:right;
+	margin-left:0px;
+	width:360px;
+	
+	
 }
 #left_1 {
 	float:left;
@@ -43,7 +50,7 @@ p.основной-абзац {
 
 	color:#000000;
 	font-family:"Myriad Pro", serif;
-	font-size:14px;
+	font-size:18px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -62,15 +69,15 @@ p.основной-абзац {
 	widows:1;
 }
 p.заголовок {
-	color:#000000;
+	color:#134398;
 	font-family:"Oswald-Regular", serif;
-	font-size:50px;
+	font-size:70px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
-	margin-bottom:0;
-	margin-left:32px;
+	margin-bottom:15px;
+	margin-left:0px;
 	margin-right:0;
 	margin-top:0;
 	orphans:1;
@@ -84,21 +91,23 @@ p.заголовок {
 }
 span.CharOverride-1 {
 	font-family:"Myriad Pro", sans-serif;
-	font-size:18px;
+	font-size:24px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-2 {
+span.CharOverride-2, span.CharOverride-3, span.CharOverride-4, span.CharOverride-5
+ {
 	font-family:"Myriad Pro", sans-serif;
 	
 	font-size:18px;
 	font-style:bold;
 	font-weight:normal;
+	
 }
 span.rabotu {
-	font-family:"Myriad Pro", sans-serif;
+	font-family:"Oswald-Regular", sans-serif;
 	color:#ffffff;
-	font-size:18px;
+	font-size:28px;
 	font-style:bold;
 	font-weight:normal;
 }
@@ -117,10 +126,10 @@ div.Текстовый-фрейм {
 }
 #_idContainer001 {
 	
-	
+	float:left;
 	width:96%;
 	padding-left:14px;
-	
+	margin-top:60px;
 }
 #_idContainer002 {
 	
@@ -215,3 +224,23 @@ td.Стандартная-таблица {
 	background: #134398;
 		
 }
+#left_22
+{
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-end;
+	margin-right:20px;		
+}
+#left_23
+{
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	margin-right:20px;
+	margin-top:20px;
+}
+a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   } 
+
+
