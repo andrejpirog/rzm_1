@@ -1,3 +1,4 @@
+@font-face {font-family: 'Oswald'; src: url(font/Oswald-Regular.ttf;)}
 body, div {
 	margin:0px;
 	padding:2px;
@@ -299,7 +300,7 @@ td.Стандартная-таблица {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 11.4%;
+	width: 15%;
 	height: 40px;
 	background: #134398;	
 }
