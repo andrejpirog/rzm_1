@@ -325,11 +325,23 @@ td.Стандартная-таблица {
 	/* width:600px;
 	object-fit: contain; */
 }
+#conteiner_fa1 
+
+{	
+	position: absolute;
+	opacity:0;
+	left:1400px;
+	/* right:-300px; */
+	object-fit: contain;
+	/* width:600px;
+	object-fit: contain; */
+	
+	}
 #conteiner_fa 
 
 {	
 	position: absolute;
-	height:100px;
+	
 	left:1400px;
 	/* right:-300px; */
 	object-fit: contain;
@@ -349,11 +361,11 @@ td.Стандартная-таблица {
 
 @keyframes move1 {
 	
-	0%{left:1400px;bottom:400px;opacity: 1}			
+	0%{left:1400px;bottom:100px;opacity: 1}			
 	
 	/* 30%{left:0px;bottom:400px;opacity: 1} */
 	
-	100%{left:-700px;bottom:400px;opacity: 1}		
+	100%{left:-700px;bottom:100px;opacity: 1}		
 }	
 #conteiner_f11 img
 {	
