@@ -321,15 +321,10 @@ td.Стандартная-таблица {
 }
 #conteiner_f img
 {	
-	max-height:70vh;
-	max-width: 90vh;
-	object-fit: contain; /*для img*/
+	height:540px;
 	
 }
-image {
-   display: inline-block;
-   width: 100%;
-}
+
 #video
 {	
 	height:540px;
