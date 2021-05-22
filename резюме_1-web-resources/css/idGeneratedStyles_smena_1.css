@@ -322,7 +322,13 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	height:540px;
+	max-width: 150vh;
+	object-fit:contain; /*для img*/
 	
+}
+image {
+   display: inline-block;
+   width: 100%;
 }
 #video
 {	
