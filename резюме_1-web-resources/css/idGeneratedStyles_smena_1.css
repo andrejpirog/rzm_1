@@ -164,7 +164,8 @@ a {
 }
 #conteiner_f img
 {	
-	height:540px;
+	/* height:540px; */
+	width: 70vh;
 	
 }
 #video
