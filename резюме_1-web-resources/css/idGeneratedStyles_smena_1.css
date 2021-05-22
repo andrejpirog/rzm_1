@@ -321,7 +321,7 @@ td.Стандартная-таблица {
 }
 #conteiner_f img
 {	
-	max-height:90vh;
+	max-height:70vh;
 	max-width: 90vh;
 	object-fit: contain; /*для img*/
 	
