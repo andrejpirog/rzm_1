@@ -322,7 +322,8 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	height:540px;
-	
+	width:600px;
+	object-fit: contain;
 }
 
 #video
