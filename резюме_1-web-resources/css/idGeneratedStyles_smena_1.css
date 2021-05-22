@@ -168,6 +168,10 @@ a {
 	max-width: 85vh;
 	
 }
+image {
+   display: inline-block;
+   width: 100%;
+}
 #video
 {	
 	max-height: 85vh;
