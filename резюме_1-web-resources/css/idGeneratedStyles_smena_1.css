@@ -92,7 +92,7 @@ p.заголовок {
         padding:15px;
 		padding-top:0px;
 		
-        z-index: 99;
+        z-index: 98;
 	
 	
 }
@@ -112,7 +112,7 @@ p.заголовок {
         padding:15px;
 		padding-top:0px;
 		
-        z-index: 99;
+        z-index: 98;
 	
 	
 }
@@ -262,7 +262,7 @@ td.Стандартная-таблица {
 	 position: fixed;
         bottom: 0;
         width: 100%;
-        z-index: 99;
+        z-index: 98;
 	
 	
 	
@@ -341,7 +341,9 @@ td.Стандартная-таблица {
 
 {	
 	position: absolute;
+	z-index: 99;
 	
+	width: 3000px;
 	left:1400px;
 	/* right:-300px; */
 	object-fit: contain;
@@ -423,4 +425,10 @@ span.rabotu {
 	font-style:bold;
 	font-weight:normal;
 }
-
+#conteiner_00
+{	
+	position: absolute;
+	z-index: 1;
+	
+	
+}
