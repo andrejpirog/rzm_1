@@ -8,7 +8,7 @@ body, div {
 body {
 	background: #faf0eb;
 	min-width:200px;
-	height:1200px;
+	height:1000px;
 }
 #left {
 	float:left;
@@ -50,7 +50,7 @@ p.основной-абзац {
 
 	color:#000000;
 	font-family:"MyriadPro-Regular", serif;
-	font-size:18px;
+	font-size:20px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -91,7 +91,7 @@ p.заголовок {
 }
 span.CharOverride-1 {
 	font-family:"MyriadPro-Regular", sans-serif;
-	font-size:24px;
+	font-size:28px;
 	font-style:normal;
 	font-weight:normal;
 }
@@ -99,7 +99,7 @@ span.CharOverride-2, span.CharOverride-3, span.CharOverride-4, span.CharOverride
  {
 	font-family:"MyriadPro-Regular", sans-serif;
 	
-	font-size:18px;
+	font-size:20px;
 	font-style:bold;
 	font-weight:normal;
 	
