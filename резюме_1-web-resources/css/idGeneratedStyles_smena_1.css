@@ -323,7 +323,7 @@ td.Стандартная-таблица {
 {	
 	height:540px;
 	width:600px;
-	object-fit: contain;
+	object-fit: scale-down;
 }
 
 #video
