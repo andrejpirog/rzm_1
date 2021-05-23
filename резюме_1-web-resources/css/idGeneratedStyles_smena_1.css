@@ -349,11 +349,11 @@ td.Стандартная-таблица {
 	object-fit: contain;
 	/* width:600px;
 	object-fit: contain; */
-	animation: move1 10s infinite 1s;
+	animation: move1 7s infinite 1s;
 	}
 #conteiner_fa img
 {	
-	height:400px;
+	height:300px;
 	object-fit: contain;
 	/* width:600px;
 	object-fit: contain; */
@@ -363,7 +363,8 @@ td.Стандартная-таблица {
 
 @keyframes move1 {
 	
-	0%{/* left:200px;/* bottom:100px; */opacity: 1 */}			
+	0%{ opacity: 0 }	
+	10%{ opacity: 1 }	
 	
 	/* 30%{left:0px;bottom:400px;opacity: 1} */
 	
