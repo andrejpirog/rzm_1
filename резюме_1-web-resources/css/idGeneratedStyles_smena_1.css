@@ -319,11 +319,56 @@ td.Стандартная-таблица {
 	height: 40px;
 	background: #134398;	
 }
+}
+@media (max-width: 399px)
+{
 #conteiner_f img
 {	
-	height:540px;
-	width:1200px;
+	display: block;
+	
+	width:300px;
 	object-fit: contain;
+}
+}
+@media (min-width: 400px) and (max-width: 599px)
+{
+#conteiner_f img
+{	
+	display: block;
+	/* height:540px; */
+	width:400px;
+	object-fit: contain;
+}
+}
+@media (min-width: 600px) and (max-width: 799px) 
+{
+#conteiner_f img
+{	
+	display: block;
+	
+	width:500px;
+	object-fit: contain;
+}
+}
+@media (min-width: 800px) and (max-width: 999px)
+{
+#conteiner_f img
+{	
+	display: block;
+	/* height:540px; */
+	width:700px;
+	object-fit: contain;
+}
+}
+@media (min-width: 1000px) 
+{
+#conteiner_f img
+{	
+	display: block;
+	/* height:540px; */
+	width:900px;
+	object-fit: contain;
+}
 }
 #conteiner_fa1 
 
