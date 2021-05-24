@@ -335,7 +335,7 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	display: block;
-	height:540px;
+	height:740px;
 	width:400px;
 	object-fit: contain;
 }
@@ -345,7 +345,7 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	display: block;
-	height:540px;
+	height:640px;
 	width:500px;
 	object-fit: contain;
 }
