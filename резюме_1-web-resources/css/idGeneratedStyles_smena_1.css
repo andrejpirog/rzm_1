@@ -325,7 +325,7 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	display: block;
-	
+	height:540px;
 	width:300px;
 	object-fit: contain;
 }
@@ -335,7 +335,7 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	display: block;
-	/* height:540px; */
+	height:540px;
 	width:400px;
 	object-fit: contain;
 }
@@ -345,7 +345,7 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	display: block;
-	
+	height:540px;
 	width:500px;
 	object-fit: contain;
 }
@@ -355,7 +355,7 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	display: block;
-	/* height:540px; */
+	height:540px;
 	width:700px;
 	object-fit: contain;
 }
@@ -365,7 +365,7 @@ td.Стандартная-таблица {
 #conteiner_f img
 {	
 	display: block;
-	/* height:540px; */
+	height:540px;
 	width:900px;
 	object-fit: contain;
 }
