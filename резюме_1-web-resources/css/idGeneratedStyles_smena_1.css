@@ -323,9 +323,10 @@ td.Стандартная-таблица {
 {	
 	
 
-	
+	height:300px;
 
 
+object-fit: contain;
 
 
 
