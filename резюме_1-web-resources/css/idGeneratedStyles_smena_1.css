@@ -320,11 +320,10 @@ td.Стандартная-таблица {
 	background: #134398;	
 }
 #conteiner_f img
-
 {	
-        height:540px;
-	
-	
+	height:540px;
+	width:1200px;
+	object-fit: contain;
 }
 #conteiner_fa1 
 
