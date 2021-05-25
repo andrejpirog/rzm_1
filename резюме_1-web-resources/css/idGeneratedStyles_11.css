@@ -245,19 +245,32 @@ a {
 
 @media (max-width: 399px)
 {	
-	#right {height:160px; width:160px;}
-	img._idGenObjectAttribute-1 { width:160px;}
-	#left {	margin-left:0px;}
-	#_idContainer001 {padding-left:0px;}
-	#_idContainer002 {padding-left:0px;}
+	#left_22
+{
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-start;
+	margin-left:0px;		
+}
 	
+	#right {height:260px; width:250px;
+	}
+	span.CharOverride-22 {font-size:12px;}
+	img._idGenObjectAttribute-1 { width:250px;}
+	#left {	margin-left:0px;}
+	#_idContainer001 {	padding-left:0px;	
+		margin-left:0px;
+	}
+	#_idContainer002 {padding-left:0px;
+	margin-left:0px;}
+		
 	p.основной-абзац {font-size:16px;}
-	p.заголовок {font-size:44px;}
+	p.заголовок {font-size:46px;}
 	span.CharOverride-1 {font-size:16px;}
 	span.CharOverride-2, span.CharOverride-3, span.CharOverride-4, span.CharOverride-5
 		{	font-size:16px;	}
-	span.rabotu {font-size:20px;}
-	span.rabotu_11 {font-size:22px;}
+	span.rabotu {font-size:24px;}
+	span.rabotu_11 {font-size:26px;}
 }
 @media (min-width: 400px) and (max-width: 599px)
 {	
