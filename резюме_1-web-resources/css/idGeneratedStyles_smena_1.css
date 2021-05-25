@@ -199,7 +199,7 @@ div.Текстовый-фрейм {
 	justify-content: center;	
 	width:98%;
 	height:400px;
-	margin-top:-36px;
+	/* margin-top:-36px; */
 	
 	
 	position: absolute;
